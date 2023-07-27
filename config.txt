@@ -1,3 +1,4 @@
 {
-  "cannyedge":true
+  "cannyedge":true,
+  "removeaudio":true
 }
