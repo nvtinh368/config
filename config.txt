@@ -1,6 +1,6 @@
 {
   "cannyedge":{
-      "status":True,
+      "status":true,
       "size_in_w":160,
       "size_in_h":90,
       "size_out_w":1280,
