@@ -1,5 +1,5 @@
 {
-  "cannyedge":{
+  "drawcanny":{
       "status":true,
       "size_in_w":160,
       "size_in_h":90,
