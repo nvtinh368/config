@@ -12,5 +12,27 @@
       "g50":[214,231,231],
       "g0":[0,0,0]
   },
+  "undisputed":{
+      "status": true,
+      "back_1_x":420,
+      "back_1_y":84,
+      "back_1_w":814,
+      "back_1_h":452,
+      "mc_1_x":10,
+      "mc_1_y":144,
+      "mc_1_w":404,
+      "mc_1_h":346,
+      "back_2_x":314,
+      "back_2_y":42,
+      "back_2_w":718,
+      "back_2_h":414,
+      "mc_2_left_x":8,
+      "mc_2_left_y":146,
+      "mc_2_right_x":866,
+      "mc_2_right_y":146,
+      "mc_2_w":406,
+      "mc_2_h":346
+      
+  },
   "removeaudio":true
 }
