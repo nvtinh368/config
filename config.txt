@@ -34,5 +34,6 @@
       "mc_2_h":346
       
   },
-  "removeaudio":true
+  "removeaudio":true,
+  "ffmpegsouthpacktv":true
 }
