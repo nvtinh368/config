@@ -35,5 +35,6 @@
       
   },
   "removeaudio":true,
-  "ffmpegsouthpacktv":true
+  "ffmpegsouthpacktv":true,
+  "pecil":true
 }
