@@ -36,5 +36,6 @@
   },
   "removeaudio":true,
   "ffmpegsouthpacktv":true,
+  "ffmpegsouthpackzoomloi":true,
   "pecil":true
 }
