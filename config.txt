@@ -34,7 +34,12 @@
       "mc_2_h":346
       
   },
-  "removeaudio":true,
+  "removeaudio":{
+      "status":true,
+      "firstvolumn":2,
+      "secondvolumn":1,
+      "backgroundvolumn":0.008
+  },
   "ffmpegsouthpacktv":true,
   "ffmpegsouthpackzoomloi":true,
   "pecil":true
