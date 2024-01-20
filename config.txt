@@ -37,8 +37,8 @@
   "removeaudio":{
       "status":true,
       "firstvolumn":2,
-      "secondvolumn":1.1,
-      "backgroundvolumn":0.05
+      "secondvolumn":1.05,
+      "backgroundvolumn":0.015
   },
   "ffmpegsouthpacktv":true,
   "ffmpegsouthpackzoomloi":true,
