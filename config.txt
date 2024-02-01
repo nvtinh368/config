@@ -42,5 +42,6 @@
   },
   "ffmpegsouthpacktv":true,
   "ffmpegsouthpackzoomloi":true,
-  "pecil":true
+  "pecil":true,
+  "voice_clone":true
 }
